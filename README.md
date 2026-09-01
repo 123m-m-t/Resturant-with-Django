@@ -1,1 +1,1 @@
-# mini_project-django_introduction-
+# this is a mini project for django 
